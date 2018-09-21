@@ -13,3 +13,5 @@ Attempting third push to dev.kc.bio
 Created branch dev.kc.bio locally and pushed/pulled files
 
 Unable to resolve conflict between dev.ap.bio and master branch. Deleted all information in README.md file, committed changes and pulled from master branch. Recopied info and fixed README.md. Pushing to dev.kc.bio.
+
+Aaron is making a REAMD.ME change and uploading to the dev.ap.bio branch.
