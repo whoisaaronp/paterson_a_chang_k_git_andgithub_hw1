@@ -1,6 +1,7 @@
 # paterson_a_chang_k_git_andgithub_hw1
 
 09/18
+
 Aaron:
 
 Updated bio and uploaded to Kayla.
@@ -32,3 +33,7 @@ I cloned the repo folder onto desktop> did a 'git clone' then added the side bra
 Aaron:
 
 making a README.md change and uploading to the dev.ap.bio branch.
+
+Kayla:
+
+trying to push README.md to GitHub test
